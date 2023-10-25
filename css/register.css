@@ -1,0 +1,8 @@
+.register_img{
+    background-image: url(upload_images/upwork.webp);
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 530px;
+    background-color: rgba(4, 3, 3,0.50);
+}
